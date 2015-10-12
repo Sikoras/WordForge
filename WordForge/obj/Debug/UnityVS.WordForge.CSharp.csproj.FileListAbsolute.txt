@@ -1,0 +1,17 @@
+C:\Users\TAgambar\Documents\WordForge\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\TAgambar\Documents\WordForge\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\TAgambar\Documents\WordForge\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\TAgambar\Documents\WordForge\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\TAgambar\Documents\WordForge\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+C:\Users\TAgambar\Documents\WordForge\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\TAgambar\Documents\WordForge\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Users\TAgambar\Documents\WordForge\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\TAgambar\Documents\WordForge\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\TAgambar\Documents\WordForge\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\TAgambar\Documents\WordForge\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\TAgambar\Documents\WordForge\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Users\TAgambar\Documents\WordForge\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+C:\Users\TAgambar\Documents\WordForge\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Users\TAgambar\Documents\WordForge\obj\Debug\UnityVS.WordForge.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\TAgambar\Documents\WordForge\obj\Debug\Assembly-CSharp.dll
+C:\Users\TAgambar\Documents\WordForge\obj\Debug\Assembly-CSharp.pdb
